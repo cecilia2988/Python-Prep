@@ -2,6 +2,12 @@
 
 # Primeros Pasos
 
+## Grabación de la Clase 1
+
+<div class="iframeContainer">
+  <iframe src="https://player.vimeo.com/video/674550186" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
+
 #### Preparando tu computadora
 Antes de comenzar deberás descargar en tu computadora las siguientes herramientas de trabajo:
 1. Editor de texto
@@ -9,7 +15,7 @@ Antes de comenzar deberás descargar en tu computadora las siguientes herramient
 3. Github
 4. Python
 
-Luego deberás realizar la clonación del repositorio, te explicamos cómo hacerlo en el tutorial: 
+Luego deberás realizar la clonación del [repositorio](https://github.com/soyHenry/Python-Prep). Te explicamos cómo hacerlo en el tutorial: 
 
 
 <div class="iframeContainer">
@@ -25,8 +31,9 @@ Slack es una plataforma de comunicación que utilizamos en Henry para estar cone
 ### ¿Cómo usar SLACK?
 
 A continuación te mostramos cómo funciona: 
-
+<div class="iframeContainer">
  <iframe src="https://player.vimeo.com/video/548902078?h=e82a766bab&title=0&byline=0&portrait=0&speed=0&badge=0&autopause=0&player_id=0&app_id=58479" width="1264" height="720" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Prep Course - Intro a Slack"></iframe>
+</div>
 
 > Gracias [Nico Constantin (FT#12)](https://github.com/NicoConstantin) por el video y la explicación!
 
@@ -375,7 +382,7 @@ Para conocer mejor el lenguaje que estaremos aprendiendo les compartimos una col
 
 ## Homework
 
-Completa la tarea descrita en el archivo [README](https://github.com/soyHenry/Prep-Course/tree/main/02-JS-I/homework)
+Instalar Visual Studio Code, GitHub y Python para poder comenzar!
 
 <table class="hide" width="100%" style='table-layout:fixed;'>
   <tr>
